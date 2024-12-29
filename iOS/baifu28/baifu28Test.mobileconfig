@@ -1406,23 +1406,23 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>百福28</string>
+			<string>百福28测试</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.2EC2C618-E0A2-473D-AFCF-B6311D3B33AD</string>
+			<string>com.apple.webClip.managed.B7AA704C-B72F-4A89-BF3C-11F0CBC8AE72</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>2EC2C618-E0A2-473D-AFCF-B6311D3B33AD</string>
+			<string>B7AA704C-B72F-4A89-BF3C-11F0CBC8AE72</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://m.xg2809.com/#/home</string>
+			<string>http://newmncph5.lg0808.com/#/home</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -1430,17 +1430,17 @@
 该证书已经通过苹果官方认可，安全可靠。请放心安装。 为了避免大家无法使用，请安装iOS，保证您的使用权益。
 如果手机设置了锁屏密码，需要输入密码后才能继续安装。</string>
 	<key>PayloadDisplayName</key>
-	<string>百福28</string>
+	<string>百福28测试</string>
 	<key>PayloadIdentifier</key>
-	<string>com.baifu28.app</string>
+	<string>com.baifu28test.app</string>
 	<key>PayloadOrganization</key>
-	<string>百福28</string>
+	<string>百福28测试</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>2968C3E6-AC7A-4317-8DA2-BF93CE2DF9CF</string>
+	<string>0B01DC26-B96C-4D1A-93F0-D5099E7B0DC1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
